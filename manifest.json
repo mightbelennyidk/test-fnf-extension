@@ -5,10 +5,10 @@
   "description": "A Chrome extension showcasing 5 FNF mods.",
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "bf.ico"
+    "default_icon": "bf.icon"
   },
   "permissions": [],
   "icons": {
-    "48": "bf.ico"
+    "48": "bf.icon"
   }
 }
