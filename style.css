@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 200px;
+}
+
+#mod-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.mod-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
